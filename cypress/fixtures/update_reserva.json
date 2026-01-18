@@ -1,0 +1,11 @@
+{
+  "firstname": "samula ALterado",
+  "lastname": "doido Alterado",
+  "totalprice": 400,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2025-08-15",
+    "checkout": "2025-08-20"
+  },
+  "additionalneeds": "Not Breakfast"
+}
